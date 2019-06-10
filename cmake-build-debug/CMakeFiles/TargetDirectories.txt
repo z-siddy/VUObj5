@@ -1,0 +1,3 @@
+C:/Users/zygsi/Desktop/VU/VUObj5/cmake-build-debug/CMakeFiles/VUObj5.dir
+C:/Users/zygsi/Desktop/VU/VUObj5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zygsi/Desktop/VU/VUObj5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
